@@ -1,2 +1,3 @@
 # coursera
-Coursera test repository
+
+This is the README file I set up 
